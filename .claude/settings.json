@@ -6,6 +6,15 @@
         "source": "github",
         "repo": "fivetaku/gptaku_plugins"
       }
+    },
+    "hyperframes": {
+      "source": {
+        "source": "github",
+        "repo": "heygen-com/hyperframes"
+      }
     }
+  },
+  "enabledPlugins": {
+    "hyperframes@hyperframes": true
   }
 }
