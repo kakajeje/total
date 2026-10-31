@@ -12,9 +12,16 @@
         "source": "github",
         "repo": "heygen-com/hyperframes"
       }
+    },
+    "ecc": {
+      "source": {
+        "source": "github",
+        "repo": "affaan-m/ECC"
+      }
     }
   },
   "enabledPlugins": {
-    "hyperframes@hyperframes": true
+    "hyperframes@hyperframes": true,
+    "ecc@ecc": true
   }
 }
