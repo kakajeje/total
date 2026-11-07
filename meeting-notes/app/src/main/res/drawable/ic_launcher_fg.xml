@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- 메모지 -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M36,30h28l8,8v40a2,2 0,0 1,-2 2H36a2,2 0,0 1,-2 -2V32a2,2 0,0 1,2 -2z"/>
+    <path android:fillColor="#3D5AFE"
+        android:pathData="M41,48h26v3H41zM41,56h26v3H41zM41,64h18v3H41z"/>
+    <!-- 마이크 점 -->
+    <path android:fillColor="#FF5252"
+        android:pathData="M43,38m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+</vector>
